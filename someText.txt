@@ -1,4 +1,4 @@
-sometext
+
 sometext
 sometext
 git remote add origin https://github.com/romanov1239/gitUglub.git
